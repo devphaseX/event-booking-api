@@ -1,0 +1,12 @@
+PUT http://localhost:8080/events/1
+Content-Type: application/json
+
+
+{
+    "id": 1,
+    "name": "Big brother 9ja",
+    "description": "big brother 9ja season 9",
+    "location": "Test location",
+    "dateTime": "2025-01-01T15:30:00Z",
+    "user_id": 1
+  },
